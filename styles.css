@@ -1,0 +1,20 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.error_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.error_wrapper>.error_heading {
+    margin-bottom: 42px;
+    font-family: 'Merriweather', serif;
+}
+
+img {
+    width: 50%;
+}
